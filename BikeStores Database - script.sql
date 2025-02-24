@@ -1,3 +1,5 @@
+-- Creating a Script from BikeStores Database with joins
+
 select o.order_id, concat(c.first_name,'',c.last_name) as name, c.city, c.state, o.order_date,
 sum(oi.quantity) as total_units,
 sum(oi.quantity * oi.list_price) as revenue,
