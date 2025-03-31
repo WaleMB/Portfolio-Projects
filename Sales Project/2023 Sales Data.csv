@@ -1,0 +1,195 @@
+Order ID,Order Date,Ship Date,Product ID,Product,Sub-Category,Category,Customer ID,Customer Name,Country/Region,State,City,Postal Code,Coupon Code,Experience Rating,Price After Discount,Quantity
+VFC202300001,2023/01/02,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,10-020-7613,Cesare Plank,United States,Maryland,Gaithersburg,20877,,3,8.00,1.00
+VFC202300001,2023/01/02,2023/01/08,MG02,The VFC Water Bottle,Gear,Merchandise,10-020-7613,Cesare Plank,United States,Maryland,Gaithersburg,20877,,3,10.00,1.00
+VFC202300002,2023/01/08,,DE01,How to Kickstart Your Metabolism,eBook,Digital,99-846-6622,Ammamaria Bodega,United States,Wisconsin,Franklin,53132,,2,8.00,1.00
+VFC202300003,2023/01/16,2023/01/20,MG02,The VFC Water Bottle,Gear,Merchandise,51-062-9388,Rowan Eadmeades,United States,California,Los Angeles,90049,VFC10,1,8.00,3.00
+VFC202300004,2023/01/30,,CQ01,Virtual Q&A,Consulting,Digital,25-250-1409,Montgomery MacNalley,United States,Washington,Seattle,98103,,5,20.00,1.00
+VFC202300005,2023/01/30,,DE01,How to Kickstart Your Metabolism,eBook,Digital,73-604-3230,Nannie Mutton,United States,Washington,Seattle,98103,,,8.00,1.00
+VFC202300006,2023/02/05,,DE02,5-Minute Keto Recipes,eBook,Digital,79-595-2972,Mallissa Neem,United States,Georgia,Smyrna,30080,,,8.00,1.00
+VFC202300007,2023/02/16,2023/02/23,MG02,The VFC Water Bottle,Gear,Merchandise,66-321-8655,Cosme Tarborn,United States,Kentucky,Henderson,42420,,5,10.00,1.00
+VFC202300008,2023/02/21,2023/02/25,MG02,The VFC Water Bottle,Gear,Merchandise,76-590-5200,Odie Loblie,United States,Florida,Tampa,33614,,4,10.00,3.00
+VFC202300009,2023/03/12,2023/03/15,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,10-020-7613,Cesare Plank,United States,Wisconsin,Milwaukee,53209,,4,25.00,1.00
+VFC202300009,2023/03/12,2023/03/15,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,10-020-7613,Cesare Plank,United States,Wisconsin,Milwaukee,53209,,4,25.00,6.00
+VFC202300010,2023/03/13,2023/03/16,MA04,Gym Stud Tee (Men),Apparel,Merchandise,61-240-2498,Cami Strowthers,United States,Arizona,Scottsdale,85254,VFC15,,21.25,6.00
+VFC202300011,2023/03/13,2023/03/18,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,66-827-5930,Ashton Keesman,United States,Virginia,Waynesboro,22980,,5,25.00,3.00
+VFC202300012,2023/03/13,,CT01,Virtual Fitness Coach,Consulting,Digital,93-937-0281,Vivyanne Coolbear,United States,Pennsylvania,Philadelphia,19134,,5,30.00,1.00
+VFC202300013,2023/03/15,,CT01,Virtual Fitness Coach,Consulting,Digital,99-794-0366,Annabelle Dunbleton,United States,California,San Francisco,94110,,,30.00,1.00
+VFC202300014,2023/03/19,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,86-310-5144,Wyn Heber,United States,Colorado,Littleton,80122,,4,8.00,1.00
+VFC202300015,2023/03/21,,CT01,Virtual Fitness Coach,Consulting,Digital,17-112-1718,Alberik Lillo,United States,Illinois,Chicago,60623,,5,30.00,1.00
+VFC202300016,2023/03/29,,DE02,5-Minute Keto Recipes,eBook,Digital,30-112-5574,Bobby Halliwell,United States,Ohio,Springfield,45503,,,8.00,1.00
+VFC202300017,2023/03/29,2023/04/02,MG01,The VFC Gym Towel,Gear,Merchandise,14-772-4324,Portia Andrivot,United States,New York,New York City,10009,,4,20.00,6.00
+VFC202300018,2023/04/01,2023/04/08,MA05,Gym Babe Tee (Women),Apparel,Merchandise,91-836-8800,Clive Cannell,United States,Arizona,Sierra Vista,85635,VFC5,4,23.75,3.00
+VFC202300019,2023/04/07,2023/04/12,MA04,Gym Stud Tee (Men),Apparel,Merchandise,93-380-8954,Niel de la Tremoille,United States,Pennsylvania,Philadelphia,19120,,,25.00,1.00
+VFC202300020,2023/04/08,,CT01,Virtual Fitness Coach,Consulting,Digital,03-245-8181,Coletta Treadwell,United States,Texas,Houston,77041,,5,30.00,1.00
+VFC202300021,2023/04/08,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,15-600-3597,Genovera Skeldon,United States,Georgia,Columbus,31907,,4,8.00,1.00
+VFC202300021,2023/04/08,,DE02,5-Minute Keto Recipes,eBook,Digital,15-600-3597,Genovera Skeldon,United States,Georgia,Columbus,31907,,4,8.00,1.00
+VFC202300021,2023/04/08,2023/04/17,MA01,Body Builder Tee (Men),Apparel,Merchandise,15-600-3597,Genovera Skeldon,United States,Georgia,Columbus,31907,,4,25.00,1.00
+VFC202300022,2023/04/14,,CT01,Virtual Fitness Coach,Consulting,Digital,81-038-3976,Gisele Emblow,United States,California,Los Angeles,90004,,5,30.00,1.00
+VFC202300023,2023/04/17,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,06-189-8457,Mathilde Woodcroft,United States,California,Lakewood,90712,,,8.00,1.00
+VFC202300024,2023/04/18,2023/04/22,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,08-724-4287,Ella Antonioni,United States,Virginia,Chesapeake,23320,,5,25.00,5.00
+VFC202300025,2023/04/19,2023/04/24,MG01,The VFC Gym Towel,Gear,Merchandise,36-646-9467,Abdel Fehners,United States,California,Los Angeles,90049,VFC10,5,16.00,1.00
+VFC202300026,2023/04/19,2023/04/24,MG02,The VFC Water Bottle,Gear,Merchandise,06-071-5291,Beck Eplett,United States,California,Los Angeles,90049,,,10.00,4.00
+VFC202300027,2023/04/24,2023/04/27,MG02,The VFC Water Bottle,Gear,Merchandise,15-973-3807,Bettine Boothebie,United States,California,Riverside,92503,,4,10.00,1.00
+VFC202300028,2023/04/24,,CT01,Virtual Fitness Coach,Consulting,Digital,33-610-9849,Georgena Phibb,United States,Colorado,Colorado Springs,80906,VFC5,,28.50,1.00
+VFC202300029,2023/05/03,2023/05/08,MA02,Body Builder Tee (Women),Apparel,Merchandise,51-062-9388,Rowan Eadmeades,United States,Illinois,Chicago,60653,,5,25.00,4.00
+VFC202300030,2023/05/06,2023/05/08,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,35-643-5041,Loy Matteoni,United States,Missouri,Springfield,65807,,4,25.00,2.00
+VFC202300031,2023/05/09,2023/05/13,MA05,Gym Babe Tee (Women),Apparel,Merchandise,13-972-1746,Lorri Donnett,United States,Texas,Austin,78745,VFC15,4,21.25,5.00
+VFC202300032,2023/05/19,2023/05/24,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,83-588-6012,Lydon Jonah,United States,New York,New York City,10011,,,25.00,1.00
+VFC202300033,2023/05/20,2023/05/23,MG02,The VFC Water Bottle,Gear,Merchandise,71-662-1483,Skipp Sictornes,United States,Colorado,Colorado Springs,80906,,4,10.00,1.00
+VFC202300034,2023/05/21,2023/05/28,MG02,The VFC Water Bottle,Gear,Merchandise,82-758-9328,Eachelle Caple,United States,Illinois,Chicago,60610,,5,10.00,4.00
+VFC202300035,2023/05/22,2023/05/27,MA04,Gym Stud Tee (Men),Apparel,Merchandise,61-579-3070,Starla O'Hoolahan,United States,New Jersey,Passaic,7055,,5,25.00,5.00
+VFC202300036,2023/05/26,2023/06/01,MA01,Body Builder Tee (Men),Apparel,Merchandise,42-591-4046,Morrie Hanscome,United States,Pennsylvania,Philadelphia,19134,VFC5,,23.75,1.00
+VFC202300037,2023/05/28,2023/06/03,MA01,Body Builder Tee (Men),Apparel,Merchandise,10-020-7613,Cesare Plank,United States,California,Los Angeles,90004,,4,25.00,1.00
+VFC202300038,2023/05/30,2023/05/31,MG01,The VFC Gym Towel,Gear,Merchandise,15-541-9813,Barr Milnes,United States,North Carolina,Wilmington,28403,,4,20.00,1.00
+VFC202300038,2023/05/30,2023/05/31,MA02,Body Builder Tee (Women),Apparel,Merchandise,15-541-9813,Barr Milnes,United States,North Carolina,Wilmington,28403,,4,25.00,1.00
+VFC202300038,2023/05/30,2023/05/31,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,15-541-9813,Barr Milnes,United States,North Carolina,Wilmington,28403,,4,25.00,1.00
+VFC202300038,2023/05/30,2023/05/31,MA01,Body Builder Tee (Men),Apparel,Merchandise,15-541-9813,Barr Milnes,United States,North Carolina,Wilmington,28403,,4,25.00,5.00
+VFC202300039,2023/06/06,2023/06/07,MG02,The VFC Water Bottle,Gear,Merchandise,34-656-8035,Weider Rignall,United States,Arkansas,Little Rock,72209,,4,10.00,1.00
+VFC202300040,2023/06/09,,CQ01,Virtual Q&A,Consulting,Digital,70-191-1913,Chadd Kightly,United States,California,San Francisco,94109,,,20.00,1.00
+VFC202300041,2023/06/12,2023/06/16,MA02,Body Builder Tee (Women),Apparel,Merchandise,94-376-8382,Kayle Origin,United States,Texas,Houston,77070,,4,25.00,5.00
+VFC202300042,2023/06/12,2023/06/15,MA01,Body Builder Tee (Men),Apparel,Merchandise,73-198-3874,Debby Downe,United States,Alabama,Decatur,35601,,5,25.00,2.00
+VFC202300043,2023/06/12,2023/06/17,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,13-982-2810,Horton Hedon,United States,New York,Long Beach,11561,,5,25.00,1.00
+VFC202300044,2023/06/14,,DE02,5-Minute Keto Recipes,eBook,Digital,03-553-0746,Lannie Bertlin,United States,California,Los Angeles,90036,,5,8.00,1.00
+VFC202300045,2023/06/17,,DE02,5-Minute Keto Recipes,eBook,Digital,51-834-2806,Grete Neesam,United States,California,Los Angeles,90045,,,8.00,1.00
+VFC202300046,2023/06/17,2023/06/22,MG01,The VFC Gym Towel,Gear,Merchandise,72-724-3276,Natassia Grimsdale,United States,Connecticut,Waterbury,6708,,5,20.00,1.00
+VFC202300047,2023/06/18,2023/06/20,MA01,Body Builder Tee (Men),Apparel,Merchandise,86-825-8170,Norry Gierek,United States,Pennsylvania,Philadelphia,19134,,,25.00,1.00
+VFC202300048,2023/06/20,2023/06/21,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,12-035-8533,Adel Whybrow,United States,California,Pasadena,91104,VFC5,5,23.75,3.00
+VFC202300049,2023/06/24,2023/06/26,MA02,Body Builder Tee (Women),Apparel,Merchandise,33-187-1559,Isacco Pykett,United States,California,San Diego,92037,VFC15,4,21.25,1.00
+VFC202300050,2023/06/24,2023/06/28,MA01,Body Builder Tee (Men),Apparel,Merchandise,84-467-5255,Ardene Triner,United States,Texas,Houston,77095,,5,25.00,1.00
+VFC202300051,2023/06/27,,CQ01,Virtual Q&A,Consulting,Digital,89-528-5356,Kris McTeggart,United States,Illinois,Highland Park,60035,,5,20.00,1.00
+VFC202300052,2023/06/28,2023/06/30,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,87-744-5118,Deane Vannoort,United States,New Jersey,Vineland,8360,,,25.00,2.00
+VFC202300053,2023/06/28,,CT01,Virtual Fitness Coach,Consulting,Digital,72-983-7059,Henderson Burstowe,United States,New Jersey,Paterson,7501,,5,30.00,1.00
+VFC202300054,2023/06/28,2023/06/30,MG01,The VFC Gym Towel,Gear,Merchandise,84-596-5115,Thorpe Tanfield,United States,New Jersey,Paterson,7501,VFC10,5,16.00,1.00
+VFC202300055,2023/06/30,,DE01,How to Kickstart Your Metabolism,eBook,Digital,41-498-1829,Deb Abden,United States,Georgia,Sandy Springs,30328,,,8.00,1.00
+VFC202300056,2023/07/02,,CT01,Virtual Fitness Coach,Consulting,Digital,97-050-5749,Winfield Enever,United States,Texas,Huntsville,77340,VFC5,5,28.50,1.00
+VFC202300057,2023/07/03,2023/07/07,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,99-462-1312,Idell Digle,United States,New York,New York City,10035,,4,25.00,8.00
+VFC202300058,2023/07/04,,DE01,How to Kickstart Your Metabolism,eBook,Digital,46-724-5232,Prissie Foddy,United States,California,San Francisco,94109,,,8.00,1.00
+VFC202300059,2023/07/08,,CT01,Virtual Fitness Coach,Consulting,Digital,76-718-4427,Nikolia Asple,United States,Colorado,Broomfield,80020,,5,30.00,1.00
+VFC202300060,2023/07/08,2023/07/12,MG02,The VFC Water Bottle,Gear,Merchandise,87-744-5118,Deane Vannoort,United States,Colorado,Broomfield,80020,,5,10.00,5.00
+VFC202300061,2023/07/14,2023/07/18,MA02,Body Builder Tee (Women),Apparel,Merchandise,13-358-7924,Ainsley Castlake,United States,California,San Francisco,94122,VFC10,5,20.00,1.00
+VFC202300062,2023/07/14,,DE01,How to Kickstart Your Metabolism,eBook,Digital,89-890-6837,Dell Yannoni,United States,New York,New York City,10009,,5,8.00,1.00
+VFC202300063,2023/07/14,2023/07/18,MG01,The VFC Gym Towel,Gear,Merchandise,66-556-5318,Elissa Bromhead,United States,New York,New York City,10009,,4,20.00,1.00
+VFC202300064,2023/07/14,2023/07/19,MG02,The VFC Water Bottle,Gear,Merchandise,76-198-5639,Reeba Gapper,United States,Georgia,Columbus,31907,,,10.00,6.00
+VFC202300065,2023/07/15,,CT01,Virtual Fitness Coach,Consulting,Digital,13-248-8985,Bengt Riep,United States,Oregon,Portland,97206,,,30.00,1.00
+VFC202300066,2023/07/19,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,37-246-3497,Jacinta Sayes,United States,Mississippi,Hattiesburg,39401,VFC5,4,7.60,1.00
+VFC202300067,2023/07/22,2023/07/24,MG02,The VFC Water Bottle,Gear,Merchandise,42-784-9244,Mattie Pigdon,United States,Ohio,Newark,43055,,5,10.00,8.00
+VFC202300067,2023/07/22,,CQ01,Virtual Q&A,Consulting,Digital,42-784-9244,Mattie Pigdon,United States,Ohio,Newark,43055,,5,20.00,1.00
+VFC202300067,2023/07/22,2023/07/24,MA05,Gym Babe Tee (Women),Apparel,Merchandise,42-784-9244,Mattie Pigdon,United States,Ohio,Newark,43055,,5,25.00,3.00
+VFC202300068,2023/07/25,2023/07/29,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,11-304-3330,Forrest Montague,United States,Ohio,Toledo,43615,VFC15,,21.25,6.00
+VFC202300069,2023/07/25,,CT01,Virtual Fitness Coach,Consulting,Digital,00-389-7389,Kimberlee Bagniuk,United States,California,Costa Mesa,92627,,5,30.00,1.00
+VFC202300070,2023/07/25,2023/07/26,MG01,The VFC Gym Towel,Gear,Merchandise,08-409-9992,Hector Killough,United States,Virginia,Arlington,22204,VFC5,4,19.00,2.00
+VFC202300071,2023/07/28,2023/07/29,MG03,The VFC Key Chain,Gear,Merchandise,39-752-7601,Celeste Selwin,United States,Pennsylvania,Bethlehem,18018,VFC5,4,4.75,7.00
+VFC202300072,2023/08/01,2023/08/01,MA05,Gym Babe Tee (Women),Apparel,Merchandise,12-812-8246,Myrtice Dougherty,United States,California,Riverside,92503,,,25.00,1.00
+VFC202300073,2023/08/04,2023/08/05,MG01,The VFC Gym Towel,Gear,Merchandise,02-817-6505,Eugenio Ciccoloi,United States,Illinois,Peoria,61604,,5,20.00,6.00
+VFC202300074,2023/08/08,2023/08/15,MG01,The VFC Gym Towel,Gear,Merchandise,34-869-1853,Adara Pagett,United States,California,Los Angeles,90036,,4,20.00,1.00
+VFC202300075,2023/08/09,2023/08/12,MA01,Body Builder Tee (Men),Apparel,Merchandise,24-199-5357,Karilynn Thridgould,United States,North Carolina,Fayetteville,28314,VFC10,4,20.00,1.00
+VFC202300076,2023/08/13,2023/08/19,MA01,Body Builder Tee (Men),Apparel,Merchandise,12-035-8533,Adel Whybrow,United States,Texas,Irving,75061,,5,25.00,2.00
+VFC202300077,2023/08/15,2023/08/21,MA05,Gym Babe Tee (Women),Apparel,Merchandise,00-494-4081,Michel McQuaide,United States,Colorado,Aurora,80013,,4,25.00,4.00
+VFC202300078,2023/08/18,2023/08/23,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,99-129-7414,Raoul Bachelar,United States,New York,New York City,10024,VFC5,,23.75,10.00
+VFC202300079,2023/08/19,2023/08/20,MG02,The VFC Water Bottle,Gear,Merchandise,15-186-8343,Robinia Deverille,United States,New York,New York City,10009,,,10.00,6.00
+VFC202300080,2023/08/21,,CQ01,Virtual Q&A,Consulting,Digital,88-140-2367,Milli Donisthorpe,United States,New York,New York City,10035,,2,20.00,1.00
+VFC202300081,2023/08/22,2023/08/27,MG03,The VFC Key Chain,Gear,Merchandise,73-528-6399,Jonathon Littledyke,United States,Oregon,Gresham,97030,VFC15,5,4.25,1.00
+VFC202300082,2023/08/22,2023/08/28,MA05,Gym Babe Tee (Women),Apparel,Merchandise,95-337-9982,Veriee Hainsworth,United States,Ohio,Columbus,43229,,,25.00,3.00
+VFC202300083,2023/08/23,2023/08/30,MA02,Body Builder Tee (Women),Apparel,Merchandise,55-553-8621,Kristal Carnduff,United States,Washington,Seattle,98105,,,25.00,1.00
+VFC202300084,2023/08/23,2023/08/27,MA01,Body Builder Tee (Men),Apparel,Merchandise,31-349-5015,Nell Rawdales,United States,New York,New York City,10035,,5,25.00,1.00
+VFC202300085,2023/08/28,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,88-140-2367,Milli Donisthorpe,United States,Texas,Dallas,75081,,4,8.00,1.00
+VFC202300086,2023/08/28,2023/08/31,MG01,The VFC Gym Towel,Gear,Merchandise,88-140-2367,Milli Donisthorpe,United States,Texas,Dallas,75081,,4,20.00,1.00
+VFC202300087,2023/09/01,2023/09/05,MA05,Gym Babe Tee (Women),Apparel,Merchandise,97-375-6508,Devin Fratson,United States,New York,New York City,10024,,5,25.00,3.00
+VFC202300087,2023/09/01,2023/09/05,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,97-375-6508,Devin Fratson,United States,New York,New York City,10024,,5,25.00,5.00
+VFC202300088,2023/09/01,2023/09/05,MG02,The VFC Water Bottle,Gear,Merchandise,80-413-7307,Clarance Lyons,United States,Michigan,Detroit,48227,,4,10.00,1.00
+VFC202300089,2023/09/01,2023/09/05,MG03,The VFC Key Chain,Gear,Merchandise,54-171-0445,Carroll Aslie,United States,Michigan,Detroit,48205,VFC5,,4.75,1.00
+VFC202300090,2023/09/01,2023/09/03,MG01,The VFC Gym Towel,Gear,Merchandise,05-472-3431,Addie Tussaine,United States,New York,New York City,10009,,4,20.00,2.00
+VFC202300091,2023/09/02,2023/09/06,MA05,Gym Babe Tee (Women),Apparel,Merchandise,59-963-7950,Panchito Milland,United States,North Carolina,Charlotte,28205,,5,25.00,1.00
+VFC202300092,2023/09/03,2023/09/05,MG03,The VFC Key Chain,Gear,Merchandise,35-382-8330,Sofie Bardsley,United States,Pennsylvania,Philadelphia,19143,VFC5,5,4.75,1.00
+VFC202300093,2023/09/03,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,05-207-9949,Ewen Pogson,United States,Maryland,Baltimore,21215,,4,8.00,1.00
+VFC202300094,2023/09/04,2023/09/07,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,99-147-1043,Blinnie Pomfrett,United States,Tennessee,Knoxville,37918,,,25.00,3.00
+VFC202300095,2023/09/05,2023/09/10,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,93-452-6580,Fernando Grinyov,United States,Texas,Houston,77070,VFC10,5,20.00,4.00
+VFC202300096,2023/09/05,2023/09/06,MG01,The VFC Gym Towel,Gear,Merchandise,89-984-0708,Mame Camilio,United States,California,Redondo Beach,90278,,,20.00,1.00
+VFC202300097,2023/09/05,,CT01,Virtual Fitness Coach,Consulting,Digital,86-738-2835,Kellsie Madre,United States,Pennsylvania,Philadelphia,19134,,5,30.00,1.00
+VFC202300098,2023/09/06,,DE01,How to Kickstart Your Metabolism,eBook,Digital,15-984-9966,Aleen Arnholtz,United States,New York,New York City,10035,,4,8.00,1.00
+VFC202300099,2023/09/08,2023/09/10,MA04,Gym Stud Tee (Men),Apparel,Merchandise,23-074-0821,Fanya Greatland,United States,New York,New York City,10011,,5,25.00,2.00
+VFC202300100,2023/09/08,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,95-626-2311,Faydra Elstob,United States,Massachusetts,Malden,2148,,,8.00,1.00
+VFC202300101,2023/09/13,2023/09/18,MA01,Body Builder Tee (Men),Apparel,Merchandise,89-997-9320,Heall Shaxby,United States,Nebraska,Omaha,68104,,4,25.00,3.00
+VFC202300102,2023/09/15,2023/09/20,MG02,The VFC Water Bottle,Gear,Merchandise,80-504-0530,Way Kinleyside,United States,Washington,Seattle,98105,,5,10.00,1.00
+VFC202300103,2023/09/16,2023/09/22,MA02,Body Builder Tee (Women),Apparel,Merchandise,15-811-3254,Selina Domerque,United States,California,San Jose,95123,,5,25.00,5.00
+VFC202300104,2023/09/17,2023/09/22,MG02,The VFC Water Bottle,Gear,Merchandise,91-463-5320,Melicent Dyble,United States,New York,New York City,10035,,5,10.00,1.00
+VFC202300105,2023/09/19,2023/09/24,MG02,The VFC Water Bottle,Gear,Merchandise,60-339-5945,Broderic Bernlin,United States,California,San Francisco,94109,,5,10.00,4.00
+VFC202300106,2023/09/20,2023/09/24,MG02,The VFC Water Bottle,Gear,Merchandise,08-311-3457,Shina Monaghan,United States,California,San Francisco,94122,VFC10,,8.00,1.00
+VFC202300107,2023/09/23,2023/09/28,MG01,The VFC Gym Towel,Gear,Merchandise,66-713-4457,Karalee Bohman,United States,New York,New York City,10009,,5,20.00,8.00
+VFC202300108,2023/09/25,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,66-200-6347,Morgen Simacek,United States,California,San Francisco,94110,,,8.00,1.00
+VFC202300109,2023/09/25,,CT01,Virtual Fitness Coach,Consulting,Digital,12-294-0182,Cherye Noods,United States,California,Long Beach,90805,,5,30.00,1.00
+VFC202300109,2023/09/25,2023/09/30,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,12-294-0182,Cherye Noods,United States,California,Long Beach,90805,,5,25.00,1.00
+VFC202300110,2023/09/26,,DE01,How to Kickstart Your Metabolism,eBook,Digital,46-050-2715,Janene Dressel,United States,California,Hesperia,92345,,5,8.00,1.00
+VFC202300111,2023/10/03,,CQ01,Virtual Q&A,Consulting,Digital,40-831-7171,Hardy Langston,United States,California,Lake Forest,92630,VFC10,5,16.00,1.00
+VFC202300112,2023/10/04,2023/10/08,MG02,The VFC Water Bottle,Gear,Merchandise,14-190-8668,Isaiah Cicero,United States,Rhode Island,Providence,2908,,,10.00,1.00
+VFC202300113,2023/10/10,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,88-575-3059,Doy Cobby,United States,Colorado,Denver,80219,,5,8.00,1.00
+VFC202300114,2023/10/14,,CQ01,Virtual Q&A,Consulting,Digital,80-472-1514,Hyacintha Healings,United States,North Carolina,Jacksonville,28540,,1,20.00,1.00
+VFC202300115,2023/10/15,2023/10/21,MG02,The VFC Water Bottle,Gear,Merchandise,96-040-1762,Bliss Crockley,United States,Oklahoma,Oklahoma City,73120,,5,10.00,5.00
+VFC202300116,2023/10/21,,DE01,How to Kickstart Your Metabolism,eBook,Digital,81-067-3936,Fulton Blenkinship,United States,Connecticut,Manchester,6040,,5,8.00,1.00
+VFC202300117,2023/10/21,2023/10/21,MG02,The VFC Water Bottle,Gear,Merchandise,66-945-2379,Richmond Matts,United States,Connecticut,Manchester,6040,,,10.00,5.00
+VFC202300118,2023/11/03,2023/11/08,MA02,Body Builder Tee (Women),Apparel,Merchandise,10-291-7408,Sofia Kasting,United States,California,Los Angeles,90049,,5,25.00,1.00
+VFC202300119,2023/11/03,,CQ01,Virtual Q&A,Consulting,Digital,81-427-5158,Barnabas Aiston,United States,California,Los Angeles,90032,VFC15,4,17.00,1.00
+VFC202300120,2023/11/03,,CT01,Virtual Fitness Coach,Consulting,Digital,00-870-1931,Shelba Grossier,United States,Pennsylvania,Philadelphia,19120,,,30.00,1.00
+VFC202300121,2023/11/05,2023/11/10,MG02,The VFC Water Bottle,Gear,Merchandise,59-038-3862,Lilia Gouly,United States,California,San Jose,95123,,5,10.00,1.00
+VFC202300122,2023/11/07,2023/11/09,MG02,The VFC Water Bottle,Gear,Merchandise,31-474-7796,Iggy Boniface,United States,California,Los Angeles,90036,,5,10.00,5.00
+VFC202300123,2023/11/08,,DE02,5-Minute Keto Recipes,eBook,Digital,82-346-2134,Matt Simner,United States,Kentucky,Henderson,42420,,4,8.00,1.00
+VFC202300123,2023/11/08,2023/11/14,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,82-346-2134,Matt Simner,United States,Kentucky,Henderson,42420,,4,25.00,1.00
+VFC202300123,2023/11/08,2023/11/14,MA05,Gym Babe Tee (Women),Apparel,Merchandise,82-346-2134,Matt Simner,United States,Kentucky,Henderson,42420,,4,25.00,5.00
+VFC202300123,2023/11/08,,CT01,Virtual Fitness Coach,Consulting,Digital,82-346-2134,Matt Simner,United States,Kentucky,Henderson,42420,,4,30.00,1.00
+VFC202300124,2023/11/08,2023/11/14,MA05,Gym Babe Tee (Women),Apparel,Merchandise,20-944-3493,Venus Ethington,United States,Indiana,La Porte,46350,,5,25.00,1.00
+VFC202300125,2023/11/18,2023/11/24,MA02,Body Builder Tee (Women),Apparel,Merchandise,31-557-3473,Stanly Filipovic,United States,Ohio,Kent,44240,,4,25.00,7.00
+VFC202300126,2023/11/19,2023/11/22,MA01,Body Builder Tee (Men),Apparel,Merchandise,82-070-6360,Ninetta Bassick,United States,Indiana,Indianapolis,46203,VFC15,4,21.25,1.00
+VFC202300127,2023/11/20,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,89-451-6264,Pyotr Alwell,United States,Ohio,Columbus,43229,,,8.00,1.00
+VFC202300128,2023/11/20,,DE01,How to Kickstart Your Metabolism,eBook,Digital,11-892-0697,Petr Bumpas,United States,Florida,Orlando,32839,,,8.00,1.00
+VFC202300129,2023/11/20,2023/11/27,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,90-095-7242,Quint Motte,United States,California,Los Angeles,90004,,,25.00,1.00
+VFC202300130,2023/11/21,,DE04,Resistance Training Exercise Routines for Men,eBook,Digital,75-686-3537,Shermie Cassels,United States,New York,New York City,10009,,,8.00,1.00
+VFC202300131,2023/11/22,2023/11/26,MG01,The VFC Gym Towel,Gear,Merchandise,47-772-9450,Jean Dominguez,United States,New York,New York City,10009,VFC10,4,16.00,1.00
+VFC202300132,2023/11/24,2023/11/30,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,07-587-1632,Hettie Wreakes,United States,Florida,Hialeah,33012,,5,25.00,3.00
+VFC202300133,2023/11/25,2023/12/02,MG03,The VFC Key Chain,Gear,Merchandise,75-492-4041,Celisse McAreavey,United States,Ohio,Lancaster,43130,VFC15,5,4.25,1.00
+VFC202300134,2023/11/26,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,66-200-6347,Morgen Simacek,United States,California,Los Angeles,90045,,,8.00,1.00
+VFC202300135,2023/11/26,2023/11/30,MA05,Gym Babe Tee (Women),Apparel,Merchandise,65-382-1860,Walt Sherr,United States,California,Los Angeles,90045,,,25.00,1.00
+VFC202300136,2023/11/27,2023/11/30,MG02,The VFC Water Bottle,Gear,Merchandise,62-225-1022,Kellen Gowar,United States,Kansas,Overland Park,66212,VFC10,,8.00,6.00
+VFC202300137,2023/11/27,2023/11/30,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,22-454-3973,Randell O'Mailey,United States,Michigan,Lincoln Park,48146,,4,25.00,7.00
+VFC202300138,2023/12/01,2023/12/03,MA01,Body Builder Tee (Men),Apparel,Merchandise,77-859-1973,Allie Hedgecock,United States,Texas,San Angelo,76903,VFC5,4,23.75,5.00
+VFC202300139,2023/12/02,,DE02,5-Minute Keto Recipes,eBook,Digital,93-379-4079,Roddy Mathwin,United States,Texas,Houston,77036,,5,8.00,1.00
+VFC202300140,2023/12/02,2023/12/07,MA02,Body Builder Tee (Women),Apparel,Merchandise,32-963-2883,Karim Wincer,United States,California,San Jose,95123,,,25.00,1.00
+VFC202300141,2023/12/06,2023/12/12,MG02,The VFC Water Bottle,Gear,Merchandise,69-763-6650,Angelico Guyet,United States,Washington,Seattle,98105,VFC10,4,8.00,8.00
+VFC202300142,2023/12/08,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,08-988-5912,Lucais Gilroy,United States,Wisconsin,Eau Claire,54703,VFC5,4,7.60,1.00
+VFC202300143,2023/12/09,2023/12/13,MA02,Body Builder Tee (Women),Apparel,Merchandise,89-587-9122,Jasen Gaisford,United States,Nebraska,Fremont,68025,,4,25.00,8.00
+VFC202300144,2023/12/09,2023/12/13,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,79-975-7136,Patricio O'Growgane,United States,Illinois,Chicago,60610,,,25.00,3.00
+VFC202300145,2023/12/10,2023/12/17,MA01,Body Builder Tee (Men),Apparel,Merchandise,20-414-5066,Antin Rickards,United States,Washington,Seattle,98105,,4,25.00,4.00
+VFC202300146,2023/12/10,2023/12/17,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,08-479-8315,Whitman Vaines,United States,Washington,Seattle,98105,,5,25.00,4.00
+VFC202300147,2023/12/10,,CQ01,Virtual Q&A,Consulting,Digital,23-054-2622,Elie Gomme,United States,Indiana,Greenwood,46142,,,20.00,1.00
+VFC202300148,2023/12/11,2023/12/11,MA05,Gym Babe Tee (Women),Apparel,Merchandise,28-279-6197,Clea Rossoni,United States,Ohio,Columbus,43229,,,25.00,1.00
+VFC202300149,2023/12/11,2023/12/11,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,99-033-9868,Darrel McCraine,United States,California,Anaheim,92804,VFC5,5,23.75,3.00
+VFC202300150,2023/12/11,2023/12/14,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,23-590-1982,Cullin Andrzejak,United States,Ohio,Springfield,45503,,5,25.00,1.00
+VFC202300150,2023/12/11,2023/12/14,MA05,Gym Babe Tee (Women),Apparel,Merchandise,23-590-1982,Cullin Andrzejak,United States,Ohio,Springfield,45503,,5,25.00,1.00
+VFC202300150,2023/12/11,2023/12/14,MA03,Body Builder Tee (Unisex),Apparel,Merchandise,23-590-1982,Cullin Andrzejak,United States,Ohio,Springfield,45503,,5,25.00,3.00
+VFC202300150,2023/12/11,2023/12/14,MA01,Body Builder Tee (Men),Apparel,Merchandise,23-590-1982,Cullin Andrzejak,United States,Ohio,Springfield,45503,,5,25.00,4.00
+VFC202300150,2023/12/11,2023/12/14,MG02,The VFC Water Bottle,Gear,Merchandise,23-590-1982,Cullin Andrzejak,United States,Ohio,Springfield,45503,,5,10.00,3.00
+VFC202300151,2023/12/18,2023/12/24,MG01,The VFC Gym Towel,Gear,Merchandise,88-436-9118,Carlo Northleigh,United States,New Jersey,Morristown,7960,,,20.00,1.00
+VFC202300152,2023/12/18,2023/12/20,MA02,Body Builder Tee (Women),Apparel,Merchandise,39-668-4415,Bobby Caddan,United States,Florida,Tamarac,33319,,5,25.00,3.00
+VFC202300153,2023/12/19,2023/12/25,MG02,The VFC Water Bottle,Gear,Merchandise,61-202-3776,Oby Worman,United States,Arizona,Tucson,85705,VFC5,5,9.50,3.00
+VFC202300154,2023/12/22,2023/12/28,MG01,The VFC Gym Towel,Gear,Merchandise,03-896-5617,Edvard Juleff,United States,Oregon,Redmond,97756,VFC15,5,17.00,11.00
+VFC202300155,2023/12/23,,DE03,Resistance Training Exercise Routines for Women,eBook,Digital,80-748-2443,Selby Sellwood,United States,Illinois,Chicago,60623,,4,8.00,1.00
+VFC202300156,2023/12/26,,CT01,Virtual Fitness Coach,Consulting,Digital,30-765-6011,Brewster Molines,United States,California,Los Angeles,90004,,,30.00,1.00
+VFC202300157,2023/12/26,2024/01/02,MA06,Dumbell Tee (Unisex),Apparel,Merchandise,80-002-8219,Rupert MacCrackan,United States,Colorado,Denver,80219,,,25.00,1.00
+VFC202300158,2023/12/29,2024/01/02,MA04,Gym Stud Tee (Men),Apparel,Merchandise,21-285-4880,Roddie Chitson,United States,Kansas,Wichita,67212,,4,25.00,1.00
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
